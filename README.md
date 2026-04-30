@@ -17,4 +17,4 @@ I’m a 10th-grade student at **Bilim-Innovation Lyceum (BIL)** in Aqtobe, focus
 *   **Top 8** -  Decentrathon 4.0 (Out of 1,500+ participants).
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abduss011&show_icons=true&theme=tokyonight)
