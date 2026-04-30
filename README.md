@@ -1,7 +1,6 @@
-<div align="center">
-
 ---
-<br>
+
+<div align="center">
 
 ## Tech Stack
 
@@ -18,15 +17,16 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br><br>
----
-
 </div>
 
+<br>
+
 ---
-##  What I'm Working On
+---
+
+## What I'm Working On
+
 *   **Custom LLM Architecture:** Architecting a proprietary, Transformer-based Large Language Model optimized for zero-shot code generation, currently writing custom CUDA kernels to reduce inference latency by 40%.
 *   **Deep Reinforcement Learning:** Implementing **Deep Q-Networks (DQN)** and experimenting with the **Bellman Equation** to build agents from scratch.
 *   **Medical AI:** Refining an **AI skin classifier** to improve diagnostic accuracy using Deep Learning.
 *   **Team Gambit (#33929):** Leading the software department for our FIRST Tech Challenge robotics team (Java).
-
