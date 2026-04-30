@@ -10,8 +10,3 @@ I’m a 10th-grade student at **Bilim-Innovation Lyceum (BIL)** in Aqtobe, focus
 *   **Deep Reinforcement Learning:** Implementing **Deep Q-Networks (DQN)** and experimenting with the **Bellman Equation** to build agents from scratch.
 *   **Medical AI:** Refining an **AI skin classifier** to improve diagnostic accuracy using Deep Learning.
 *   **Team Gambit (#33929):** Leading the software department for our FIRST Tech Challenge robotics team (Java).
-
-##  Main Achievements
-*   **Gold Medalist** - Infomatrix Asia 2026 (International Project Competition)
-*   **Bronze Medalist** - National Programming Olympiad
-*   **Top 8** -  Decentrathon 4.0 (Out of 1,500+ participants).
