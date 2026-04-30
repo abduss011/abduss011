@@ -15,6 +15,3 @@ I’m a 10th-grade student at **Bilim-Innovation Lyceum (BIL)** in Aqtobe, focus
 *   **Gold Medalist** - Infomatrix Asia 2026 (International Project Competition)
 *   **Bronze Medalist** - National Programming Olympiad
 *   **Top 8** -  Decentrathon 4.0 (Out of 1,500+ participants).
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abduss011&show_icons=true&theme=tokyonight)
