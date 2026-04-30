@@ -23,11 +23,6 @@
 
 </div>
 
-
-### Data Scientist | Robotics Coder | Competitive Programmer 
-
-I’m a 10th-grade student at **Bilim-Innovation Lyceum (BIL)** in Aqtobe, focused on the intersection of **Machine Learning** and **Autonomous Systems**. Currently, I’m pouring my energy into developing **Reinforcement Learning agents**.
-
 ---
 ##  What I'm Working On
 *   **Custom LLM Architecture:** Architecting a proprietary, Transformer-based Large Language Model optimized for zero-shot code generation, currently writing custom CUDA kernels to reduce inference latency by 40%.
